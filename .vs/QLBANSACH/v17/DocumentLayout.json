@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|c:\\users\\khanh\\documents\\qlbansach 3\\qlbansach\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|solutionrelative:qlbansach\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|c:\\users\\khanh\\documents\\qlbansach 3\\qlbansach\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|solutionrelative:qlbansach\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|c:\\users\\khanh\\documents\\qlbansach 3\\qlbansach\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|solutionrelative:qlbansach\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|c:\\users\\khanh\\documents\\qlbansach 3\\qlbansach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6557193A-F0F0-4550-816A-656B4BC777E7}|QLBANSACH\\QLBANSACH.csproj|solutionrelative:qlbansach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\DonHang.cs",
+              "RelativeDocumentMoniker": "QLBANSACH\\DonHang.cs",
+              "ToolTip": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\DonHang.cs",
+              "RelativeToolTip": "QLBANSACH\\DonHang.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:08:07.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLBANSACH\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\DangNhap.cs",
+              "RelativeToolTip": "QLBANSACH\\DangNhap.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:52:56.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLBANSACH\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\DangNhap.cs [Design]",
+              "RelativeToolTip": "QLBANSACH\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:52:44.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\Form1.cs",
+              "RelativeDocumentMoniker": "QLBANSACH\\Form1.cs",
+              "ToolTip": "C:\\Users\\khanh\\Documents\\QLBANSACH 3\\QLBANSACH\\Form1.cs [Design]",
+              "RelativeToolTip": "QLBANSACH\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:52:17.449Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<TaiKhoanData>
+  <TaiKhoan>
+    <MaTK>1</MaTK>
+    <TenDangNhap>admin</TenDangNhap>
+    <MatKhau>123456</MatKhau>
+    <HoTen>Quản trị viên</HoTen>
+    <VaiTro>Admin</VaiTro>
+  </TaiKhoan>
+</TaiKhoanData>

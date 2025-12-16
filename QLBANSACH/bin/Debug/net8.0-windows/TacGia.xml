@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<TacGiaData>
+  <TacGia>
+    <MaTacGia>1</MaTacGia>
+    <TenTacGia>Paulo Coelho</TenTacGia>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>2</MaTacGia>
+    <TenTacGia>Dale Carnegie</TenTacGia>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>3</MaTacGia>
+    <TenTacGia>Daniel Kahneman</TenTacGia>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>4</MaTacGia>
+    <TenTacGia>Yuval Noah Harari</TenTacGia>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>5</MaTacGia>
+    <TenTacGia>Nguyễn Nhật Ánh</TenTacGia>
+  </TacGia>
+</TacGiaData>

@@ -1,0 +1,213 @@
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.exe
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.deps.json
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.runtimeconfig.json
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.pdb
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form1.resources
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Properties.Resources.resources
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TrangChu.resources
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.GenerateResource.cache
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfoInputs.cache
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfo.cs
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.CoreCompileInputs.cache
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\refint\QLBANSACH.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.pdb
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.genruntimeconfig.cache
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\ref\QLBANSACH.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DangNhap.resources
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLySach.resources
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.AssemblyReference.cache
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.Up2Date
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.ThongKe.resources
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyKhach.resources
+D:\HK125\XML\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyLoaiSach.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.exe
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.deps.json
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.runtimeconfig.json
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.pdb
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.AssemblyReference.cache
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DangNhap.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form1.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Properties.Resources.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyKhach.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyLoaiSach.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLySach.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.ThongKe.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TrangChu.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.GenerateResource.cache
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfoInputs.cache
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfo.cs
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.CoreCompileInputs.cache
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.Up2Date
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\refint\QLBANSACH.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.pdb
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.genruntimeconfig.cache
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\ref\QLBANSACH.dll
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyDonHang.resources
+D:\KY5\XML\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TaiKhoan.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.exe
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.deps.json
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.runtimeconfig.json
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.pdb
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.AssemblyReference.cache
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DangNhap.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form1.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Properties.Resources.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyKhach.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyLoaiSach.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLySach.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TaiKhoan.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.ThongKe.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TrangChu.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.GenerateResource.cache
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.GeneratedMSBuildEditorConfig.editorconfig
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfoInputs.cache
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfo.cs
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.CoreCompileInputs.cache
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.Up2Date
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\refint\QLBANSACH.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.pdb
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.genruntimeconfig.cache
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\ref\QLBANSACH.dll
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DonHang.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyNhanSu.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.UserControl1.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyHoaDon.resources
+F:\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form2.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.exe
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.deps.json
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.runtimeconfig.json
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.pdb
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.AssemblyReference.cache
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DangNhap.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DonHang.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form1.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form2.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Properties.Resources.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyHoaDon.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyKhach.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyLoaiSach.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyNhanSu.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLySach.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TaiKhoan.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.ThongKe.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TrangChu.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.UserControl1.resources
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.GenerateResource.cache
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfoInputs.cache
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfo.cs
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.CoreCompileInputs.cache
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.sourcelink.json
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.Up2Date
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\refint\QLBANSACH.dll
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.pdb
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.genruntimeconfig.cache
+D:\KY5\CDPM\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\ref\QLBANSACH.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.exe
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.deps.json
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.runtimeconfig.json
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.pdb
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DangNhap.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DonHang.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form1.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form2.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyHoaDon.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyKhach.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyLoaiSach.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyNhanSu.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLySach.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TaiKhoan.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.ThongKe.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TrangChu.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.UserControl1.resources
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.Up2Date
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\refint\QLBANSACH.dll
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.pdb
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Nhóm2\Nhóm2\QLBANSACH\QLBANSACH\QLBANSACH\obj\Debug\net8.0-windows\ref\QLBANSACH.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.exe
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.deps.json
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.runtimeconfig.json
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\QLBANSACH.pdb
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.AssemblyReference.cache
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DangNhap.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.DonHang.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form1.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Form2.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.Properties.Resources.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyHoaDon.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyKhach.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyLoaiSach.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLyNhanSu.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.QuanLySach.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TaiKhoan.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.ThongKe.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.TrangChu.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.UserControl1.resources
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.GenerateResource.cache
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfoInputs.cache
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.AssemblyInfo.cs
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.csproj.Up2Date
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\refint\QLBANSACH.dll
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.pdb
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\QLBANSACH.genruntimeconfig.cache
+C:\Users\khanh\Documents\QLBANSACH 3\QLBANSACH\obj\Debug\net8.0-windows\ref\QLBANSACH.dll

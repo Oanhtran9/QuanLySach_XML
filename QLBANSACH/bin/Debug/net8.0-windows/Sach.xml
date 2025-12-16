@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<SachData>
+  <Sach>
+    <MaSach>1</MaSach>
+    <TenSach>Nhà giả kim</TenSach>
+    <MaTheLoai>1</MaTheLoai>
+    <MaTacGia>1</MaTacGia>
+    <GiaBan>95000.00</GiaBan>
+    <SoLuongTon>100</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>2</MaSach>
+    <TenSach>Đắc nhân tâm</TenSach>
+    <MaTheLoai>4</MaTheLoai>
+    <MaTacGia>2</MaTacGia>
+    <GiaBan>85000.00</GiaBan>
+    <SoLuongTon>48</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>3</MaSach>
+    <TenSach>Tư duy nhanh và chậm</TenSach>
+    <MaTheLoai>2</MaTheLoai>
+    <MaTacGia>3</MaTacGia>
+    <GiaBan>120000.00</GiaBan>
+    <SoLuongTon>30</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>4</MaSach>
+    <TenSach>Lược sử loài người</TenSach>
+    <MaTheLoai>5</MaTheLoai>
+    <MaTacGia>4</MaTacGia>
+    <GiaBan>150000.00</GiaBan>
+    <SoLuongTon>20</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>5</MaSach>
+    <TenSach>Mắt biếc</TenSach>
+    <MaTheLoai>1</MaTheLoai>
+    <MaTacGia>5</MaTacGia>
+    <GiaBan>80000.00</GiaBan>
+    <SoLuongTon>25</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>6</MaSach>
+    <TenSach>Tôi thấy hoa vàng trên cỏ xanh</TenSach>
+    <MaTheLoai>1</MaTheLoai>
+    <MaTacGia>5</MaTacGia>
+    <GiaBan>95000.00</GiaBan>
+    <SoLuongTon>35</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>7</MaSach>
+    <TenSach>Sức mạnh của thói quen</TenSach>
+    <MaTheLoai>3</MaTheLoai>
+    <MaTacGia>3</MaTacGia>
+    <GiaBan>110000.00</GiaBan>
+    <SoLuongTon>28</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>8</MaSach>
+    <TenSach>7 thói quen hiệu quả</TenSach>
+    <MaTheLoai>4</MaTheLoai>
+    <MaTacGia>2</MaTacGia>
+    <GiaBan>130000.00</GiaBan>
+    <SoLuongTon>22</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>9</MaSach>
+    <TenSach>Khéo ăn nói sẽ có được thiên hạ</TenSach>
+    <MaTheLoai>3</MaTheLoai>
+    <MaTacGia>2</MaTacGia>
+    <GiaBan>90000.00</GiaBan>
+    <SoLuongTon>27</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>10</MaSach>
+    <TenSach>Đi tìm lẽ sống</TenSach>
+    <MaTheLoai>3</MaTheLoai>
+    <MaTacGia>3</MaTacGia>
+    <GiaBan>100000.00</GiaBan>
+    <SoLuongTon>26</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>11</MaSach>
+    <TenSach>Trang Quynh</TenSach>
+    <MaTheLoai>6</MaTheLoai>
+    <MaTacGia>5</MaTacGia>
+    <GiaBan>30000.00</GiaBan>
+    <SoLuongTon>40</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>12</MaSach>
+    <TenSach>Tam Cam</TenSach>
+    <MaTheLoai>7</MaTheLoai>
+    <MaTacGia>5</MaTacGia>
+    <GiaBan>200000</GiaBan>
+    <SoLuongTon>20</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>13</MaSach>
+    <TenSach>Su tich trau cau</TenSach>
+    <MaTheLoai>7</MaTheLoai>
+    <MaTacGia>5</MaTacGia>
+    <GiaBan>30000</GiaBan>
+    <SoLuongTon>20</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>14</MaSach>
+    <TenSach>Tieng Viet lop 1</TenSach>
+    <MaTheLoai>9</MaTheLoai>
+    <MaTacGia>5</MaTacGia>
+    <GiaBan>25000</GiaBan>
+    <SoLuongTon>50</SoLuongTon>
+  </Sach>
+  <Sach>
+    <MaSach>15</MaSach>
+    <TenSach>Toan lop 1</TenSach>
+    <MaTheLoai>9</MaTheLoai>
+    <MaTacGia>5</MaTacGia>
+    <GiaBan>200000</GiaBan>
+    <SoLuongTon>100</SoLuongTon>
+  </Sach>
+</SachData>

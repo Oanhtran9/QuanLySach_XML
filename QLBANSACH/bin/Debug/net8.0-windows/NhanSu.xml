@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NhanSuData>
+  <NhanSu>
+    <MaNhanSu>1</MaNhanSu>
+    <HoTen>Lê Minh</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SoDienThoai>0912000001</SoDienThoai>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <NgayVaoLam>2023-01-10T00:00:00+07:00</NgayVaoLam>
+    <Luong>10000000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>2</MaNhanSu>
+    <HoTen>Nguyễn Thảo</HoTen>
+    <ChucVu>Kho</ChucVu>
+    <SoDienThoai>0912000002</SoDienThoai>
+    <DiaChi>Hà Nội</DiaChi>
+    <NgayVaoLam>2022-11-15T00:00:00+07:00</NgayVaoLam>
+    <Luong>7500000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>4</MaNhanSu>
+    <HoTen>Hoàng Anh</HoTen>
+    <ChucVu>Quản lý kho</ChucVu>
+    <SoDienThoai>0912000004</SoDienThoai>
+    <DiaChi>Huế</DiaChi>
+    <NgayVaoLam>2023-07-20T00:00:00+07:00</NgayVaoLam>
+    <Luong>9000000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>5</MaNhanSu>
+    <HoTen>Trần Vy</HoTen>
+    <ChucVu>Kế toán</ChucVu>
+    <SoDienThoai>0912000005</SoDienThoai>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <NgayVaoLam>2024-01-05T00:00:00+07:00</NgayVaoLam>
+    <Luong>9500000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>8</MaNhanSu>
+    <HoTen>Nguyen Thi Khanh Ly</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SoDienThoai>09878965787</SoDienThoai>
+    <DiaChi>Da Nang</DiaChi>
+    <NgayVaoLam>2025-12-10T15:54:38+07:00</NgayVaoLam>
+    <Luong>5000000</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>9</MaNhanSu>
+    <HoTen>Dang Cong Kiet</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SoDienThoai>0987896789</SoDienThoai>
+    <DiaChi>Quang Nam</DiaChi>
+    <NgayVaoLam>2025-12-12T16:01:39+07:00</NgayVaoLam>
+    <Luong>5000000</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>10</MaNhanSu>
+    <HoTen>Tran Thi Oanh</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SoDienThoai>0986754231</SoDienThoai>
+    <DiaChi>Quang Nam</DiaChi>
+    <NgayVaoLam>2025-12-11T16:03:50+07:00</NgayVaoLam>
+    <Luong>7000000</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>13</MaNhanSu>
+    <HoTen>Le Thi Loan</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SoDienThoai>09753625417</SoDienThoai>
+    <DiaChi>Ha Noi</DiaChi>
+    <NgayVaoLam>2025-12-10T16:23:27+07:00</NgayVaoLam>
+    <Luong>5000000</Luong>
+  </NhanSu>
+</NhanSuData>
