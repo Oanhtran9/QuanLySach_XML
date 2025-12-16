@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<TheLoaiSachData>
+  <TheLoaiSach>
+    <MaTheLoai>1</MaTheLoai>
+    <TenTheLoai>Tiểu thuyết</TenTheLoai>
+  </TheLoaiSach>
+  <TheLoaiSach>
+    <MaTheLoai>2</MaTheLoai>
+    <TenTheLoai>Khoa học</TenTheLoai>
+  </TheLoaiSach>
+  <TheLoaiSach>
+    <MaTheLoai>3</MaTheLoai>
+    <TenTheLoai>Tâm lý</TenTheLoai>
+  </TheLoaiSach>
+  <TheLoaiSach>
+    <MaTheLoai>4</MaTheLoai>
+    <TenTheLoai>Kinh doanh</TenTheLoai>
+  </TheLoaiSach>
+  <TheLoaiSach>
+    <MaTheLoai>5</MaTheLoai>
+    <TenTheLoai>Lịch sử</TenTheLoai>
+  </TheLoaiSach>
+  <TheLoaiSach>
+    <MaTheLoai>6</MaTheLoai>
+    <TenTheLoai>Tiểu thuyết</TenTheLoai>
+  </TheLoaiSach>
+</TheLoaiSachData>

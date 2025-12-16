@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<KhachHangData>
+  <KhachHang>
+    <MaKhachHang>1</MaKhachHang>
+    <TenKhachHang>Nguyễn Văn A</TenKhachHang>
+    <SoDienThoai>0901000001</SoDienThoai>
+    <DiaChi>Đà Nẵng</DiaChi>
+  </KhachHang>
+  <KhachHang>
+    <MaKhachHang>2</MaKhachHang>
+    <TenKhachHang>Trần Thị B</TenKhachHang>
+    <SoDienThoai>0901000002</SoDienThoai>
+    <DiaChi>Hà Nội</DiaChi>
+  </KhachHang>
+  <KhachHang>
+    <MaKhachHang>3</MaKhachHang>
+    <TenKhachHang>Lê Văn C</TenKhachHang>
+    <SoDienThoai>0901000003</SoDienThoai>
+    <DiaChi>HCM</DiaChi>
+  </KhachHang>
+  <KhachHang>
+    <MaKhachHang>4</MaKhachHang>
+    <TenKhachHang>Phạm Thị D</TenKhachHang>
+    <SoDienThoai>0901000004</SoDienThoai>
+    <DiaChi>Huế</DiaChi>
+  </KhachHang>
+  <KhachHang>
+    <MaKhachHang>5</MaKhachHang>
+    <TenKhachHang>Ngô Văn E</TenKhachHang>
+    <SoDienThoai>0901000005</SoDienThoai>
+    <DiaChi>Đà Nẵng</DiaChi>
+  </KhachHang>
+</KhachHangData>

@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<NhanSuData>
+  <NhanSu>
+    <MaNhanSu>1</MaNhanSu>
+    <HoTen>Lê Minh</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SoDienThoai>09120000001</SoDienThoai>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <NgayVaoLam>2023-01-10T00:00:00+07:00</NgayVaoLam>
+    <Luong>8000000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>2</MaNhanSu>
+    <HoTen>Nguyễn Thảo</HoTen>
+    <ChucVu>Kho</ChucVu>
+    <SoDienThoai>0912000002</SoDienThoai>
+    <DiaChi>Hà Nội</DiaChi>
+    <NgayVaoLam>2022-11-15T00:00:00+07:00</NgayVaoLam>
+    <Luong>7500000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>3</MaNhanSu>
+    <HoTen>Phạm Tuấn</HoTen>
+    <ChucVu>Thu ngân</ChucVu>
+    <SoDienThoai>0912000003</SoDienThoai>
+    <DiaChi>HCM</DiaChi>
+    <NgayVaoLam>2024-03-01T00:00:00+07:00</NgayVaoLam>
+    <Luong>8500000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>4</MaNhanSu>
+    <HoTen>Hoàng Anh</HoTen>
+    <ChucVu>Quản lý kho</ChucVu>
+    <SoDienThoai>0912000004</SoDienThoai>
+    <DiaChi>Huế</DiaChi>
+    <NgayVaoLam>2023-07-20T00:00:00+07:00</NgayVaoLam>
+    <Luong>9000000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+    <MaNhanSu>5</MaNhanSu>
+    <HoTen>Trần Vy</HoTen>
+    <ChucVu>Kế toán</ChucVu>
+    <SoDienThoai>0912000005</SoDienThoai>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <NgayVaoLam>2024-01-05T00:00:00+07:00</NgayVaoLam>
+    <Luong>9500000.00</Luong>
+  </NhanSu>
+  <NhanSu>
+            <MaNhanSu>NS001</MaNhanSu>
+            <HoTen>Trần Thị Oanh</HoTen>
+            <ChucVu>Kho</ChucVu>
+            <SoDienThoai>0123456789</SoDienThoai>
+            <DiaChi>Đà Nẵng</DiaChi>
+            <NgayVaoLam>2025-12-31T10:01:00+07:00</NgayVaoLam>
+            <Luong>9000000</Luong></NhanSu>
+</NhanSuData>
